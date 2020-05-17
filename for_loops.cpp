@@ -9,5 +9,8 @@ int main()
 		cout<<i<<" ";
 	}
 
+	cout<<"Done with for loops";
+	cout<<"what about while loops";
+
 	return 0;
 }
